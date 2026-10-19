@@ -1,0 +1,6 @@
+﻿6/10/2026: Changed Chompy to not have healing in water, and gain +1 for water buffs at level 13.
+Reworked Dune; lowered healing to 1d4, dropped STR by one, gave choice of lowering INT or CHA, and increased swim speed.
+6/10/2026: Gave Orange Athletism prof. only, and removed Toughness. Expanded Chompy's, Chik's, Baron's, Icke's, and Shelly's descriptions. Fixed several errors.
+14/10/2026:Changed Expie, Milky, and Dune's description to be more accurate to Casualties: Unknown rather than Gunsaw.
+16/10/2026: Reworked Milky. Took away Nimbleness, swapped the values of the ASI for DEX and INT, and let them get expertise in Sleight of Handif they have profiency in it beforehand.
+19/10?2026: Gave all species physical descriptions. Gave Baron a variant of Powerful Build as a buff and to recognize their sheer size. Have made the decision to move Changelog to its own .txt file, rather than putting it in the pdf.
